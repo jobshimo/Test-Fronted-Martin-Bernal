@@ -121,8 +121,16 @@
               "devServerTarget": "ximdexTestFronted:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "ximdexTestFronted"
+    }
+  },
+  "defaultProject": "ximdexTestFronted",
+  "cli": {
+    "analytics": "8a05338e-0e45-4469-ae51-e0faa75f0008"
+  }
 }

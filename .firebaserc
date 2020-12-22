@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ximdextestfronted": {
+      "hosting": {
+        "ximdexTestFronted": [
+          "ximdextestfronted"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ximdextestfronted"
+  }
+}
